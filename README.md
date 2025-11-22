@@ -52,7 +52,7 @@ Final Insights & Recommendations
 
 Clear business takeaways documented
 
-📈 Key Insights (Sample)
+# Key Insights
 
 Top 20% of customers contributed nearly 60% of total sales
 
